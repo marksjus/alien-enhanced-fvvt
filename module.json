@@ -24,6 +24,6 @@
     }
   ],
   "url": "https://github.com/marksjus/alien-enhanced-fvvt",
-  "manifest": "https://github.com/marksjus/alien-enhanced-fvvt/releases/download/v0.0.1/system.json",
+  "manifest": "https://github.com/marksjus/alien-enhanced-fvvt/releases/download/v0.0.1/module.json",
   "download": "https://github.com/marksjus/alien-enhanced-fvvt/releases/download/v0.0.1/alien-enhanced.zip"
 }

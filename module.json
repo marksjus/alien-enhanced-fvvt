@@ -2,7 +2,7 @@
   "id": "alien-enhanced",
   "title": "Alien RPG Enhanced",
   "description": "Enhancements for Alien RPG system.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "compatibility": {
     "minimum": 12,
     "verified": "12.343",

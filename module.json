@@ -1,0 +1,29 @@
+{
+  "id": "alien-enhanced",
+  "title": "Alien RPG Enhanced",
+  "description": "Enhancements for Alien RPG system.",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": 12,
+    "verified": "12.343",
+    "maximum": 12
+  },
+  "authors": [{
+    "name": "Marksjus"
+  }],
+  "styles": ["styles/alien-enhanced.css"],
+  "esmodules": [
+    "alien-enhanced.mjs"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    }
+  ],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}

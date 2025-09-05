@@ -1,0 +1,16 @@
+.grid-attr-enhanced {
+    display: grid;
+    margin: 0;
+    padding: 0;
+    padding-left: 5px;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    border: 1px solid var(--aliengreen);
+    grid-template-areas: "Attr1 Attr2 Attr3 Attr4";
+    grid-template-columns: 265px 35px 35px 30px;
+}
+
+.grid-attr-enhanced input[type=text].Attr3 {
+  border: 1px solid var(--alientextjournal);
+}

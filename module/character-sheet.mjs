@@ -8,10 +8,9 @@ export class alienrpgEnhancedActorSheet extends alienrpgActorSheet {
   /** @override */
   get template() {
 		const path = 'modules/alien-enhanced/templates/';
-		// return `${path}actor-sheet.html`;
-		// unique item sheet by type, like `weapon-sheet.html`.
+
 		if (game.settings.get('alienrpg', 'aliencrt')) {
-			return `systems/alienrpg/templates/actor/crt/${this.actor.type}-sheet.html`;
+			return `${path}crt/${this.actor.type}-sheet.html`;
 		} else {
 			return `${path}${this.actor.type}-sheet.html`;
 		}

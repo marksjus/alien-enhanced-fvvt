@@ -11,6 +11,7 @@
     grid-template-columns: 265px 35px 35px 30px;
 }
 
-.grid-attr-enhanced input[type=text].Attr3 {
+.grid-attr-enhanced input[type=text].Attr3,
+.crt .grid-attr-enhanced input[type=text].Attr3 {
   border: 1px solid var(--alientextjournal);
 }
